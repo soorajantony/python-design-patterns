@@ -1,0 +1,4 @@
+Existing design is a prototype. Make a copy of it and customise it.
+It uses a set of prototype objects which can be used to copy and create new objects with new values
+
+A method which has many prototype objects is called a prototypeFactory method

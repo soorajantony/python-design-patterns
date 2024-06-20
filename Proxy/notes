@@ -1,0 +1,2 @@
+Proxy acts as an interface to a resource, which can be complex, dynamic, not yet created etc.
+Any change made tot he underlying object doesnt need any code change as proxy remains the same

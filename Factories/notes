@@ -1,0 +1,7 @@
+Factories are required when the object creation is very convoluted and cannot be created piecewise using Builder pattern
+Initializer __init__ cannot be overloaded or stuffed with a lot of parameters which becomes a hell
+
+The wholesale object creation to be done and logic is so big and can be can be given to any of the entities below,
+a method - factory method
+class - Factory
+hierarchy of factories - Abstract factory

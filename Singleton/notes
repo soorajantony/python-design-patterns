@@ -1,0 +1,7 @@
+only one instance is created and initialized only once when it is required.like,
+- Database Repo
+- Object factory
+
+when the initialization call is expensive and a resource is tagged to it, we need to prevent it from creating additional copies or more invocations
+
+

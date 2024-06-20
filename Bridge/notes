@@ -1,0 +1,10 @@
+Bridge Pattern is used to avoid structural complexity while implementing classes
+It seperates implementation specific abstractions and implementation independent abstractions.
+
+Two ways of drawing a structure - Rastorized, Vectorized
+Different shapes - circle, square, trangle etc.
+
+Creating a class for each combination, creates complexity of a cartesian product
+Bridge way is creating different abstract classes like Renderer, Shape etc.
+
+It uses a sequence of heirarchies to avoid the cartesian product scenario

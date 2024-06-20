@@ -1,0 +1,3 @@
+Interpreting is processing the structured text by turning into separate lexical tokens and then interpreting the tokens
+
+for eg: text of an arithmetic expression needs to be seperated into tokens and parsed as mathematical operations to get the result

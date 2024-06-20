@@ -1,0 +1,5 @@
+Decorator pattern enhances existing objects
+ - keeping the object intact
+ - without inheriting from the object
+ - keep the functionality seperate
+ - usage of existing objects without any change

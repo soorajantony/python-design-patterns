@@ -1,0 +1,3 @@
+An adapter is something that converts an available interface to the use cases of the requirement that we currently have
+
+Check the exercises file. Square goes through an adapter to be used in rectangle calculation function

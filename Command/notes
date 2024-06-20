@@ -1,0 +1,5 @@
+Command is an instruction to perform an action. all the information required for that
+Certain situations where all the instructions need to be serialized and stored in file.
+Or when there is a requirement for an undo/redo kind of scenario
+
+for eg: bank account deposit and withdrawal should be tracked and done int he right order

@@ -1,0 +1,3 @@
+Madiator is a component which facilitates communication between other components, even without them knowing about each other
+
+For eg: participants in a chat room, players in a multiplayer game. they need to communicate between each other even if they drop out of a game or got disconnected

@@ -1,0 +1,1 @@
+A token representing the state of the system. It should be able to rollback to the state when the token was generated

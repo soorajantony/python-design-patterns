@@ -1,0 +1,4 @@
+Iterator is the traversal functionality of different data structures
+- it keeps reference to the current element  - __iter__()
+- knows how to move to next element - __next__()
+- knows where to stop when its done - StopIteration

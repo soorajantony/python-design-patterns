@@ -1,0 +1,18 @@
+Builder is required when the object is not simple and it needs a complex object
+It might need piece by piece construction of object instead of a single initialization call
+# I want an HTML list with 2 words in it
+words = ['hello', 'world']
+parts = ['<ul>']
+for w in words:
+    parts.append(f'  <li>{w}</li>')
+parts.append('</ul>')
+print('\n'.join(parts))
+
+Builder Facets -  cases where multiple builders are required
+Like having addressbuilder and company builder to build the full address
+It works with a base builder class and subbuilders combine together to build the object
+
+Builder Inheritance
+Builder Facets violates Open Close principles, as in case of a new builder, a property has to be added in the parent Person Builder class
+Inheritance solves this
+

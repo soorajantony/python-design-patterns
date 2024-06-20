@@ -1,0 +1,2 @@
+A chain of components with a defined process or commands sometimes having a default value with an ability to terminate the chain
+A set of executions to be done in an order with an exit condition
