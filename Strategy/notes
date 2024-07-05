@@ -1,0 +1,4 @@
+strategy is a piece of code or blueprint which can be used by the object as an when required
+An interface should be laid out for each strategy to follow along with a high level algorithm
+
+works on the concept of breaking algorithm into high level components and low level components

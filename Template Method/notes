@@ -1,0 +1,1 @@
+Template Method is creating a skeleton of the algorithm which is then inherited and its detailed implementation is done in the sub class

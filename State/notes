@@ -1,0 +1,5 @@
+Pattern in which object's behaviour is determined by its state. Behavior changes as it moves from one state to another
+
+A construct which manages the state and its transistion is called a State Machine
+
+This can be used to implement any list based option based interactive tool
