@@ -1,0 +1,6 @@
+visitor is a component which knows how to traverse the data structures it is composed of
+
+For eg: define an operation applicable to entire class hierarchy
+Without modifying all the classes manually and handle the non-common modules too
+
+Visitor is an external component which handles the above requirements
